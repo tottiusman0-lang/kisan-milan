@@ -744,7 +744,7 @@ def stats():
 init_db()
 
 if __name__ == "__main__":
-    host = os.environ.get("HOST", "127.0.0.1")
-    port = int(os.environ.get("PORT", 5000))
-    print(f"Kisan Milan running at http://{'127.0.0.1' if host == '0.0.0.0' else host}:{port}")
+    host = "0.0.0.0"
+    port = int(os.environ.get("PORT", 10000))
+    print(f"Kisan Milan server starting on port {port}")
     app.run(host=host, port=port, debug=False, threaded=True)
