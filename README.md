@@ -159,3 +159,20 @@ The ripeness checker now includes basic image exposure checks, a larger analysis
 - **Use my location:** asks the phone/browser for its current GPS location, then tries to convert the coordinates into a village/town and district. It no longer inserts a fixed Chevella location. Allow location permission and turn on GPS. If address lookup is unavailable, coordinates are shown instead.
 - **Buyer/Farmer login:** if a valid email and password are entered but that account was saved under the other role, signing in from the selected role corrects the account role and opens the selected dashboard. Use separate email accounts if you want separate Farmer and Buyer accounts.
 - **Mandi language:** missing translations now fall back to English instead of leaving text in a previous language, and the chosen language is remembered when the page is refreshed. Telugu, Hindi and English can be selected from the language buttons.
+- ---
+
+## 📢 Prototype Demonstration Notice
+
+Dear Evaluator,
+
+Welcome to Kisan Milan!
+
+This is an early-stage prototype developed to demonstrate our proposed agricultural marketplace. Crop listings and other demonstration data may be temporary and may not persist after a page refresh, service restart, or redeployment.
+
+We appreciate your understanding as we continue improving data persistence and platform reliability.
+
+Please explore the available farmer and buyer features to experience our proposed solution.
+
+**Live Prototype:** https://kisan-milan.onrender.com
+
+Thank you for your valuable time and consideration.
