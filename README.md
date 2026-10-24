@@ -1,3 +1,19 @@
+# 🌾 KISAN MILAN
+### Agriculture Market Platform
+
+🚀 **Live Working Prototype:** https://kisan-milan.onrender.com
+
+💻 **Source Code:** Available in this repository.
+
+Kisan Milan connects farmers, FPOs, local vendors,
+retailers, restaurants, and other buyers.
+
+## Key Features
+- Farmer crop listings
+- Buyer access to available produce
+- Crop quantity and quality information
+- Order and logistics coordination
+- Improved agricultural market access
 # Kisan Milan — Python backend MVP (fixed build)
 
 This project serves the existing Kisan Milan HTML app from Flask and stores shared workflow records in a local SQLite database.
